@@ -1,0 +1,27 @@
+body {
+	margin-top: 50px;
+}
+
+.brand-color {
+	color: green;
+}
+
+.row {
+	margin-top: 50px;
+}
+
+.row img {
+	margin-top: 10px;
+}
+
+#pagination {
+	margin-top: 50px; 
+}
+footer {
+	line-height: 50px;
+	height: 50px;
+	text-align: center;
+	color: #fff;
+	background-color: #222222; 
+	margin-top: 50px;
+}
